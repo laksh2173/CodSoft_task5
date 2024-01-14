@@ -1,0 +1,3 @@
+Face Detection and Recognition!!!
+Implemented using Python code that detect and recognise faces in videos and images.
+Used pre-trained face detection models like Haar cascades.
